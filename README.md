@@ -1,4 +1,4 @@
-# Conversor em JavaScript 
+# Conversor 👨‍💻​
 
 - Conversão de moedas;
 - Conversor de quilômetros para anos-luz e descobrir o tempo necessário para viajar de uma estrela para outra;
